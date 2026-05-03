@@ -1,0 +1,91 @@
+.casts_container {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  row-gap: 10px;
+  column-gap: 14px;
+  overflow-y: auto;
+}
+
+.casts_container p{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  color: #d8e0e8;
+  font-weight: bold;
+  font-size: 24px;
+  background-color: #283038;
+  border: 1px solid #3a4550;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.casts_container h3{
+  margin-top: -6px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  color: #d8e0e8;
+  font-weight: bold;
+  font-size: 24px;
+  background-color: transparent;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+
+
+
+.genres_container {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  row-gap: 16px;
+  column-gap: 19px;
+  overflow-y: auto;
+}
+
+.genres_container span {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+  color: #d8e0e8;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: #283038;
+  border: 1px solid #3a4550;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.details_button {
+  margin: 10px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: #d8e0e8;
+  font-weight: bold;
+  font-size: 20px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.details_button:hover {
+  text-decoration: underline;
+}
+
+.details_button:focus {
+  color: #d8e0e8;
+}
+
+.details_button_active {
+  margin: 10px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: #00e054;
+  font-weight: bold;
+  font-size: 20px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+
+.underlined {
+  height: 2px;
+  width: auto;
+  background-color: #14181c;
+  margin-bottom: 10px;
+}
