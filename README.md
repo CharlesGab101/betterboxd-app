@@ -17,23 +17,23 @@ Note: This will impact Vite dev & build performances.
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-##Social Discovery & Community
+## Social Discovery & Community
 Designed for cinema enthusiasts to interact by reviewing and commenting on each others' film activity.
 
-##Movie History Tracking
+## Movie History Tracking
 Allows users to maintain a comprehensive log of the films they have watched over time.
 
-##Reviews & Ratings
+## Reviews & Ratings
 Provides a system for users to rate movies and write detailed personal reviews.
 
-##Watchlist Management
+## Watchlist Management
 Includes a feature for users to save and track movies they intend to watch in the future.
 
-##Discovery Tools
+## Discovery Tools
 Enables users to browse trending films and explore new titles within the platform.
 
-##Personalized Experience
+## Personalized Experience
 Prioritizes the "personal cinema journey" by managing individual interests and movie preferences.
 
-##React-Based Architecture
+## React-Based Architecture
 Built using the React framework to ensure a modern, responsive, and component-based user interface.
